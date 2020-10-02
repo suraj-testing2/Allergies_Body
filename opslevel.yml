@@ -1,0 +1,20 @@
+---
+version: 1
+service:
+  name: Allergies_Body
+  lifecycle: 
+  tier: tier_2
+  product: 
+  owner: 
+  language: 
+  framework: 
+  description: 
+  aliases: 
+  tags:
+  - key: node-version
+    value: " 1.3.2"
+  repositories:
+  - name: suraj-testing2/Allergies_Body
+    path: "/"
+    provider: github
+  tools: 
