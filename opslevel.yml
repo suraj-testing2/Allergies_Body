@@ -3,7 +3,7 @@ version: 1
 service:
   name: Allergies_Body
   lifecycle: 
-  tier: tier_2
+  tier: tier_3
   product: 
   owner: 
   language: 
